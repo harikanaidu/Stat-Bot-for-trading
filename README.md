@@ -1,4 +1,4 @@
-# Stat-Bot-for-trading
+# Technical Analysis
 A machine learning statistics tracker for novice enterpreneurs to make better trading decisions
 
 8 years of historic stock data of 11 companies has been collected, twitter being one among them.On preprocessing the data and passing it through machine learning scikit classifiers, the output looks as shown in the output screens.
